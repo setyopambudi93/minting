@@ -1,0 +1,40 @@
+{
+    "name": "NFT 0",
+    "symbol": "",
+    "description": "Celebratory Solflare NFT for the Solflare X launch",
+    "seller_fee_basis_points": 250,
+    "image": "image.png",
+    "attributes": [
+      {
+        "trait_type": "Hat",
+        "value": "cheese"
+      },
+      {
+        "trait_type": "Outfit",
+        "value": "suit"
+     },
+     {
+        "trait_type": "Mouth",
+        "value": "mask"
+      }
+    ],
+    "collection": {
+       "name": "NFT Collection",
+       "family": "NFT"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "83Jw6KorVSgBfgYKTzF949X1NMr5wEFxUmWtZuz72gjW",
+          "share": 100
+        }
+      ]
+    }
+  }

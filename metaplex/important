@@ -1,0 +1,9 @@
+pubkey: 83Jw6KorVSgBfgYKTzF949X1NMr5wEFxUmWtZuz72gjW
+
+candy machine with publickey: 3YGJhqco4NyvERQAcqRneTfga1oSofnAiFVJd6vbZBSY
+
+{"program":{"uuid":"3YGJhq","config":"3YGJhqco4NyvERQAcqRneTfga1oSofnAiFVJd6vbZBSY"},"items":{"0":{"link":"https://arweave.net/Uc2pmLeFyl-p49_cBKlI0M1d4T-MVX1VNIGks4im0D0","name":"NFT 0","onChain":true},"1":{"link":"https://arweave.net/n4az3g2kuiOUsZx_zh-er9d2PqrOuyseS29m447YDbY","name":"NFT 0","onChain":true}},"env":"devnet","cacheName":"temp","authority":"83Jw6KorVSgBfgYKTzF949X1NMr5wEFxUmWtZuz72gjW"}
+
+candy machine pubkey: CMcgxTN8YBontgcGr5FTUv6GLWzdcYP9j1GknTbV71NM
+
+timestamp: 1636946527.952
